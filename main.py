@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from pysnap import Snapchat
 import secrets
 
