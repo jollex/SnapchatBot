@@ -1,6 +1,9 @@
 # SnapchatBot
 A snapchat bot that uploads all incoming pictures to its story
 
+## Requirements
+This script needs two python libraries to run: requests and pycrypto.
+
 ## Usage
 1. Either change 'secrets.USERNAME' and 'secrets.PASSWORD' in main.py to the username and password for the snapchat account you want to automate, or create a secrets.py file with two variables USERNAME and PASSWORD set to the username and password respectively.
 2. Simply run main.py to add all incoming friend requests and upload all incoming snaps to the account's story.
