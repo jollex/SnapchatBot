@@ -2,7 +2,7 @@
 A snapchat bot that uploads all incoming pictures to its story
 
 ## Requirements
-This script needs two python libraries to run: requests and pycrypto.
+This script needs two python libraries to run: [requests](http://docs.python-requests.org/en/latest/) and [pycrypto](https://pypi.python.org/pypi/pycrypto).
 
 ## Usage
 1. Either change 'secrets.USERNAME' and 'secrets.PASSWORD' in main.py to the username and password for the snapchat account you want to automate, or create a secrets.py file with two variables USERNAME and PASSWORD set to the username and password respectively.
