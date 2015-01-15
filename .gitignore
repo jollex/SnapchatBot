@@ -1,4 +1,4 @@
 secrets.py
 .DS_Store
 *.pyc
-tmp.jpg
+tmp.*
